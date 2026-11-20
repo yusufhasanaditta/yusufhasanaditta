@@ -4,9 +4,9 @@
    "login": "yusufhasanaditta",
    "createdAt": "2025-10-29T13:08:35Z",
    "contributionsCollection": {
-    "totalCommitContributions": 56,
+    "totalCommitContributions": 57,
     "contributionCalendar": {
-     "totalContributions": 63,
+     "totalContributions": 64,
      "weeks": [
       {
        "contributionDays": [
@@ -1693,6 +1693,10 @@
         {
          "date": "2026-11-19",
          "contributionCount": 3
+        },
+        {
+         "date": "2026-11-20",
+         "contributionCount": 1
         }
        ]
       }
@@ -1703,6 +1707,18 @@
     "totalCount": 7,
     "nodes": [
      {
+      "name": "EWUdiots",
+      "description": "EWUdiots: unofficial student hub for East West University — routine, CGPA, 3D campus map, live notices, faculty directory, study tools",
+      "stargazerCount": 0,
+      "primaryLanguage": {
+       "name": "JavaScript",
+       "color": "#f1e05a"
+      },
+      "pushedAt": "2026-11-20T00:56:56Z",
+      "homepageUrl": null,
+      "url": "https://github.com/yusufhasanaditta/EWUdiots"
+     },
+     {
       "name": "yusufhasanaditta",
       "description": "Profile README: animated SVG cards",
       "stargazerCount": 0,
@@ -1710,7 +1726,7 @@
        "name": "Python",
        "color": "#3572A5"
       },
-      "pushedAt": "2026-11-19T06:31:37Z",
+      "pushedAt": "2026-11-19T06:31:45Z",
       "homepageUrl": null,
       "url": "https://github.com/yusufhasanaditta/yusufhasanaditta"
      },
@@ -1725,18 +1741,6 @@
       "pushedAt": "2026-11-17T19:37:54Z",
       "homepageUrl": "https://language-hub-mu.vercel.app",
       "url": "https://github.com/yusufhasanaditta/language-hub"
-     },
-     {
-      "name": "EWUdiots",
-      "description": "EWUdiots: unofficial student hub for East West University — routine, CGPA, 3D campus map, live notices, faculty directory, study tools",
-      "stargazerCount": 0,
-      "primaryLanguage": {
-       "name": "JavaScript",
-       "color": "#f1e05a"
-      },
-      "pushedAt": "2026-11-16T22:22:58Z",
-      "homepageUrl": null,
-      "url": "https://github.com/yusufhasanaditta/EWUdiots"
      },
      {
       "name": "porichoy",
